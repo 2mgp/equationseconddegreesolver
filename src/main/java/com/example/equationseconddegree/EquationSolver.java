@@ -1,4 +1,4 @@
-package com.example;
+package com.example.equationseconddegree;
 
 public class EquationSolver implements IEquationSolver {
     @Override
